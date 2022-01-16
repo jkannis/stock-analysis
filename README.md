@@ -9,9 +9,9 @@ The client for this project was asked to assist in analyzing stock performance f
 
 The data is provided to the client with formatting to provide quick reference decision-making
 
-![2017 Original Stock Results with Performance Timing](https://github.com/jkannis/stock-analysis/blob/main/resources/2017_Original.png)
+![2017 Original Stock Results with Performance Timing](https://github.com/jkannis/stock-analysis/blob/main/Resources/2017_Original.png)
 
-![2018 Original Stock Results with Performance Timing](https://github.com/jkannis/stock-analysis/blob/main/resources/2018_Original.png)
+![2018 Original Stock Results with Performance Timing](https://github.com/jkannis/stock-analysis/blob/main/Resources/2018_Original.png)
 
 - The refactored script used to process the stocks data used logic that looped through the dataset once, storing data in arrays for each ticker. After all data was processed, the arrays were looped through to write data to the sheet.
   - This process was successful in providing accurate results to the client
@@ -19,9 +19,9 @@ The data is provided to the client with formatting to provide quick reference de
 
 The data is provided to the client with formatting to provide quick reference decision-making
 
-![2017 Refactored Stock Results with Performance Timing](https://github.com/jkannis/stock-analysis/blob/main/resources/2017_Refactored.png)
+![2017 Refactored Stock Results with Performance Timing](https://github.com/jkannis/stock-analysis/blob/main/Resources/2017_Refactored.png)
 
-![2018 Refactored Stock Results with Performance Timing](https://github.com/jkannis/stock-analysis/blob/main/resources/2018_Original.png)
+![2018 Refactored Stock Results with Performance Timing](https://github.com/jkannis/stock-analysis/blob/main/Resources/2018_Original.png)
 
 ### Summary
 #### Advantages and Disadvantages of Refactoring
