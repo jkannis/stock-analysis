@@ -7,6 +7,8 @@ The client for this project was asked to assist in analyzing stock performance f
   - This process was successful in providing accurate results to the client
   - For small datasets this process would be an acceptable option
 
+![Original Code Logic](https://github.com/jkannis/stock-analysis/blob/main/Resources/Original_Code.png)
+
 The data is provided to the client with formatting to provide quick reference decision-making
 
 ![2017 Original Stock Results with Performance Timing](https://github.com/jkannis/stock-analysis/blob/main/Resources/2017_Original.png)
@@ -16,6 +18,8 @@ The data is provided to the client with formatting to provide quick reference de
 - The refactored script used to process the stocks data used logic that looped through the dataset once, storing data in arrays for each ticker. After all data was processed, the arrays were looped through to write data to the sheet.
   - This process was successful in providing accurate results to the client
   - This logic was much more efficient and ran much more quickly than the original script making it a better choice for any size dataset
+
+![Refactored Code Logic](https://github.com/jkannis/stock-analysis/blob/main/Resources/Refactored_Code.png)
 
 The data is provided to the client with formatting to provide quick reference decision-making
 
